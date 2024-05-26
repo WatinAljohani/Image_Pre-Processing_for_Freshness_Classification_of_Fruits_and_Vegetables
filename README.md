@@ -31,7 +31,7 @@ The project uses morphological operations and image segmentation to enhance the 
 
 - **ResNet-18 Model**:
   - Achieved 100% accuracy for fruit type classification.
-  - Achieved 99% accuracy for fruit quality assessment.
+  - Achieved 95% accuracy for fruit quality assessment.
 
 ### Conclusion
 
